@@ -26,6 +26,7 @@ def Hex_number(x):
 if __name__=='__main__':
  print Hex_number(26)
  print Hex_number(196)
+
  print Hex_number(75)
  print Hex_number(324)
 
