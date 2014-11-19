@@ -15,9 +15,6 @@ def Day(x):
  print  day
 if __name__=='__main__':
  print Day(730)
- print Day(90)
- print Day(365)
- print Day(93)
 
 
 
